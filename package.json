@@ -1,0 +1,9 @@
+{
+  "name": "gestiondoc-backend",
+  "version": "1.0.0",
+  "description": "Backend para GestiónDoc - sube PDFs al Drive del proyecto",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {}
+}
